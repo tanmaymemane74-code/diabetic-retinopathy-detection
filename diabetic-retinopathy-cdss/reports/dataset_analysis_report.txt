@@ -1,0 +1,22 @@
+============================================================
+  APTOS 2019 Diabetic Retinopathy Dataset Report
+============================================================
+
+  Total images        : 25
+  Missing images      : 0
+
+  Class Distribution:
+  ----------------------------------------
+    0 – No DR                     :     5  ( 20.0%)
+    1 – Mild NPDR                 :     5  ( 20.0%)
+    2 – Moderate NPDR             :     5  ( 20.0%)
+    3 – Severe NPDR               :     5  ( 20.0%)
+    4 – Proliferative DR          :     5  ( 20.0%)
+
+  Image Size Statistics:
+  ----------------------------------------
+    Sampled          : 25
+    Width  (mean±std): 300 ± 0  [300 – 300]
+    Height (mean±std): 300 ± 0  [300 – 300]
+
+============================================================

@@ -1,0 +1,103 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+*.manifest
+*.spec
+pip-log.txt
+pip-delete-this-directory.txt
+
+# =====================
+# Virtual Environments
+# =====================
+venv/
+env/
+.venv/
+.env
+
+# =====================
+# IDE / Editor
+# =====================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# =====================
+# OS Files
+# =====================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.lnk
+
+# =====================
+# Jupyter Notebooks
+# =====================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# =====================
+# ML / Data
+# =====================
+dataset/
+data/
+models/*.h5
+models/*.keras
+models/*.pt
+models/*.pth
+models/*.onnx
+models/*.tflite
+*.h5
+*.hdf5
+checkpoints/
+logs/
+wandb/
+mlruns/
+
+# =====================
+# Vector DB
+# =====================
+vector_db/
+
+# =====================
+# Generated Reports
+# =====================
+reports/*.pdf
+
+# =====================
+# Static Uploads
+# =====================
+static/uploads/
+static/gradcam/
+
+# =====================
+# Misc
+# =====================
+*.log
+*.csv
+*.tsv
+*.pkl
+*.pickle
+*.npy
+*.npz
+*.zip
+*.tar.gz
+*.tar
+*.rar
+.cache/
+tmp/
+temp/
